@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on My CV in LaTeX!
+- 🔭 I’m currently working on my CV in LaTeX!
 - 🌱 I’m currently plannin on learning c++!
 <!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RitzGit&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
