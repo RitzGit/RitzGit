@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my CV in LaTeX!
-- 🌱 I’m currently plannin on learning c++!
+- 🌱 I’m currently planning on learning c++!
 <!--
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RitzGit&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitzGit&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)0
