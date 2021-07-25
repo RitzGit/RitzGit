@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my CV in LaTeX!
+- 🔭 I’m currently working on my portfolio!
 - 🌱 I’m currently planning on learning c++!
-<!--
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RitzGit&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitzGit&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)0
--->
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RitzGit&show_icons=true&theme=jolly" width="50%"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitzGit&layout=compact&theme=jolly" width="40%"/>
