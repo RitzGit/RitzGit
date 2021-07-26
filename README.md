@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+There's so many technologies and languages I want to learn, but also so little time :(
+
 - 🔭 I’m currently working on my portfolio!
 - 🌱 I’m currently planning on learning c++!
 
