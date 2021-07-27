@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning c++
-- 📫 How to reach me: Preferably over Discord with the tag: Ritz#1231
 - 😄 Pronouns: He/They
 
 There's so many technologies and languages I want to learn, but also so little time :(
