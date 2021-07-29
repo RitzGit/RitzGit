@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning c++
+- 🔭 I’m currently working on a Sudoku generator and solver in c++
 - 😄 Pronouns: He/They
 
 There's so many technologies and languages I want to learn, but also so little time :(
