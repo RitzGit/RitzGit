@@ -35,7 +35,6 @@ There's so many technologies and languages I want to learn, but also so little t
 
 <a href="https://www.rust-lang.org/" target="_blank" title="Rust"><img src="https://github.com/get-icon/geticon/raw/master/icons/rust.svg" alt="Rust" width="21px" height="21px"></a>
 <a href="https://isocpp.org/" target="_blank" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
-<a href="https://www.qt.io/" title="Qt"><img src="https://github.com/get-icon/geticon/raw/master/icons/qt.svg" alt="Qt" width="21px" height="21px"></a>
 <a href="https://golang.org/" title="Go"><img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="Go" width="21px" height="21px"></a>
 
 I am still looking for my niche in computer science, so I am still trying a bit of everything to see what fits and sticks. Luckily I am a fast learner, so it doesn't take eons :)
