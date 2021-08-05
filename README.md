@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning c++
-- 🔭 I’m currently working on Minesweeper in c++
+- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on an internet speed logger
 - 😄 Pronouns: He/They
 
 There's so many technologies and languages I want to learn, but also so little time :(
