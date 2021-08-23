@@ -34,6 +34,7 @@ There's so many technologies and languages I want to learn, but also so little t
 ### Technologies I want to learn and use relatively soon:
 
 <a href="https://www.rust-lang.org/" target="_blank" title="Rust"><img src="https://github.com/get-icon/geticon/raw/master/icons/rust.svg" alt="Rust" width="21px" height="21px"></a>
+<a href="https://csharp.net/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
 <a href="https://golang.org/" title="Go"><img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="Go" width="21px" height="21px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
