@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Rust
-- 🔭 I’m currently working on an internet speed logger
+- 🔭 I’m currently working on a dice parsing library for standard dice notation
 - 😄 Pronouns: He/They
 
 There's so many technologies and languages I want to learn, but also so little time :(
