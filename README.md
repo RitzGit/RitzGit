@@ -26,7 +26,6 @@ There's so many technologies and languages I want to learn, but also so little t
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://vuejs.org/" target="_blank" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
-<a href="https://www.electronjs.org/" target="_blank" title="Electron"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/CSS/" target="_blank" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
 <a href="https://sass-lang.com/" target="_blank" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/html5/" target="_blank" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a>
