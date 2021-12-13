@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Rust
-- 🔭 I’m currently working on a inventory manager for tabletop RPGs using egui ~~unsuccessfully~~
+- 🌱 I’m currently learning Rust and TypeScript
+- 🔭 I’m currently working on a inventory manager for tabletop RPGs using React
 - 😄 Pronouns: He/They
 
 There's so many technologies and languages I want to learn, but also so little time :(
