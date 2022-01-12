@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Rust
-- 🔭 I’m currently working on a inventory manager for tabletop RPGs using React
+- 🔭 I’m currently working on a library for character managing for tabletop RPGs in Rust
 - 😄 Pronouns: He/They
 
 There's so many technologies and languages I want to learn, but also so little time :(
