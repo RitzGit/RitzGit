@@ -42,5 +42,5 @@ There's so many technologies and languages I want to learn, but also so little t
 
 I am still looking for my niche in computer science, so I am still trying a bit of everything to see what fits and sticks. Luckily I am a fast learner, so it doesn't take eons :)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RitzGit&show_icons=true&theme=jolly" width="50%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitzGit&layout=compact&theme=jolly" width="40%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mwallenfang&show_icons=true&theme=jolly" width="50%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwallenfang&layout=compact&theme=jolly" width="40%"/>
