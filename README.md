@@ -40,7 +40,7 @@ There's so many technologies and languages I want to learn, but also so little t
 <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
 
-I am still looking for my niche in computer science, so I am still trying a bit of everything to see what fits and sticks. Luckily I am a fast learner, so it doesn't take eons :)
+I am still looking for my niche in computer science. Currently it's moving towards audio programming and maybe even some numerical analysis.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mwallenfang&show_icons=true&theme=jolly" width="50%"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwallenfang&layout=compact&theme=jolly" width="40%"/>
