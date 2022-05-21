@@ -21,9 +21,9 @@ There's so many technologies and languages I want to learn, but also so little t
 
 ### Technologies I know and have used before
 
+<a href="https://www.rust-lang.org/" target="_blank" title="Rust"><img src="https://github.com/get-icon/geticon/raw/master/icons/rust.svg" alt="Rust" width="21px" height="21px"></a>
 <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 <a href="https://www.java.com/" target="_blank" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px"></a>
-<a href="https://www.rust-lang.org/" target="_blank" title="Rust"><img src="https://github.com/get-icon/geticon/raw/master/icons/rust.svg" alt="Rust" width="21px" height="21px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>
 <a href="https://vuejs.org/" target="_blank" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
