@@ -37,7 +37,7 @@ There's so many technologies and languages I want to learn, but also so little t
 <a href="https://svelte.dev/" title="Svelte"><img src="https://github.com/get-icon/geticon/raw/master/icons/svelte-icon.svg" alt="Svelte" width="21px" height="21px"></a>
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
 
-My current niche in computer science and programming is signal processing, as well as frontend programming. Both primarily using Rust.
+My current niche in computer science and programming is digital signal processing, as well as graphics programming. Both primarily using Rust.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mwallenfang&show_icons=true&theme=jolly" height="165vh"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwallenfang&layout=compact&theme=jolly" height="165vh"/>
