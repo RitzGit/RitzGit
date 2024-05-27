@@ -17,7 +17,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a delay plugin in Rust
 - 😄 Pronouns: She/They
 
-There's so many technologies and languages I want to learn, but also so little time :(
+## About my current project: Delax
+I am working on a delay plugin for audio production with a few additional experiments that might be useful for glitchy sounds.
+
+At the moment the basic DSP for a simple delay is implemented and stable, as well as good sounding. So it is already musically useful.
+
+The main experiment I am exploring with it is what can be achieved by slicing the delay buffer into several parts and playing these in different orders. It might be possible to create effects like the music memes where beats are switched around in real-time. It might also be possible to do randomized slicing.
+
+
+
+
 
 ### My main technologies I use
 
