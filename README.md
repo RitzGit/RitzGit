@@ -53,6 +53,8 @@ The main experiment I am exploring with it is what can be achieved by slicing th
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="50px" height="50px"></a>
 <a href="https://www.qt.io/" title="Qt"><img src="https://github.com/get-icon/geticon/raw/master/icons/qt.svg" alt="Qt" width="50px" height="50px"></a>
 <a href="https://www.qt.io/" title="OpenCV"><img src="https://github.com/get-icon/geticon/raw/master/icons/opencv.svg" alt="OpenCV" width="50px" height="50px"></a>
+<a href="https://ziglang.org/" title="Zig"><img src="https://github.com/get-icon/geticon/raw/master/icons/zig.svg" alt="Zig" width="50px" height="50px"></a>
+
 
 
 
