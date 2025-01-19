@@ -19,7 +19,14 @@ Here are some ideas to get you started:
 
 ## About my current projects: 
 
-### Delax
+### [Household](https://github.com/awallenfang/household)
+Here I am working on a task tracker for shared living spaces like a shared appartment. 
+
+Currently it has the ability to track tasks that have to be completed, assign it to users and also has the feature to set up recurrent tasks which will reappear weekly/daily/whatever and will then be assigned to an order of people, which can be configured.
+
+For the future I want to also implement a shopping list area where a shopping list for the space can be kept. There the people in the space should also be able to enter who bought what for what price, as well as a monthly/weekly split of costs.
+
+### [Delax](https://github.com/awallenfang/delax)
 I am working on a delay plugin for audio production with a few additional experiments that might be useful for glitchy sounds.
 
 At the moment the basic DSP for a simple delay is implemented and stable, as well as good sounding. So it is already musically useful.
@@ -27,15 +34,6 @@ At the moment the basic DSP for a simple delay is implemented and stable, as wel
 There are a few small features like bpm tracking that are still needed to make it properly viable for production, together with a good looking UI.
 
 The main experiment I am exploring with it is what can be achieved by slicing the delay buffer into several parts and playing these in different orders. It might be possible to create effects like the music memes where beats are switched around in real-time. It might also be possible to do randomized slicing.
-
-### Household
-Here I am working on a task tracker for shared living spaces like a shared appartment. 
-
-Currently it has the ability to track tasks that have to be completed, assign it to users and also has the feature to set up recurrent tasks which will reappear weekly/daily/whatever and will then be assigned to an order of people, which can be configured.
-
-For the future I want to also implement a shopping list area where a shopping list for the space can be kept. There the people in the space should also be able to enter who bought what for what price, as well as a monthly/weekly split of costs.
-
-
 
 ### My main technologies I use
 
