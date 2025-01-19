@@ -17,14 +17,23 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a delay plugin in Rust
 - 😄 Pronouns: She/They
 
-## About my current project: Delax
+## About my current projects: 
+
+### Delax
 I am working on a delay plugin for audio production with a few additional experiments that might be useful for glitchy sounds.
 
 At the moment the basic DSP for a simple delay is implemented and stable, as well as good sounding. So it is already musically useful.
 
+There are a few small features like bpm tracking that are still needed to make it properly viable for production, together with a good looking UI.
+
 The main experiment I am exploring with it is what can be achieved by slicing the delay buffer into several parts and playing these in different orders. It might be possible to create effects like the music memes where beats are switched around in real-time. It might also be possible to do randomized slicing.
 
+### Household
+Here I am working on a task tracker for shared living spaces like a shared appartment. 
 
+Currently it has the ability to track tasks that have to be completed, assign it to users and also has the feature to set up recurrent tasks which will reappear weekly/daily/whatever and will then be assigned to an order of people, which can be configured.
+
+For the future I want to also implement a shopping list area where a shopping list for the space can be kept. There the people in the space should also be able to enter who bought what for what price, as well as a monthly/weekly split of costs.
 
 
 
@@ -32,6 +41,7 @@ The main experiment I am exploring with it is what can be achieved by slicing th
 
 <a href="https://www.rust-lang.org/" target="_blank" title="Rust"><img src="https://github.com/get-icon/geticon/raw/master/icons/rust.svg" alt="Rust" width="50px" height="50px"></a>
 <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>
+<a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="git" width="50px" height="50px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"></a>
 <a href="https://www.w3.org/TR/CSS/" target="_blank" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a>
 <a href="https://www.w3.org/TR/html5/" target="_blank" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
